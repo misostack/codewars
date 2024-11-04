@@ -8,4 +8,4 @@ go mod tidy
 ```
 ## Challenges
 
-- [ ] Day 01: 5 topic
+- [x] Day 01: 5 topic
